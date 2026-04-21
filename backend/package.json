@@ -1,0 +1,7 @@
+{
+  "name": "nodejs-nginx-boilerplate-backend",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
